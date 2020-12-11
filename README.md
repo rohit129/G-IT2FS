@@ -1,5 +1,5 @@
 ## Objectives:
-* To construct **Gaussian IT2FS with uncertain mean** using interval approach.
+* To construct **Gaussian IT2FS with uncertain mean** using hybrid approach.
 * To build an application using the above IT2FS in solving MADM problem.
 * MADM problem chosen to select the suggest the suitable **Online Study Platform (OSP)** from the set of alternatives given student's preferences.
 
